@@ -6,22 +6,22 @@ export default {
         "remove": "&times;"
       },
       "file": {
-        "defaultName": "Ficheiro",
-        "dndTitle": "Carregar ficheiro",
-        "dndDescription": "Soltar ficheiro ou clicar aqui para carregar",
-        "removeConfirm": "Ao remover o ficheiro, este será excluído permanentemente. Tem a certeza de continuar?",
-        "select": "Selecionar ficheiro",
+        "defaultName": "Arquivo",
+        "dndTitle": "Carregar arquivo",
+        "dndDescription": "Arraste o arquivo ou clique aqui para carregar",
+        "removeConfirm": "Ao remover o arquivo, este será excluído permanentemente. Tem certeza que deseja continuar?",
+        "select": "Selecionar arquivo",
         "upload": "Carregar"
       },
       "multifile": {
-        "uploadButton": "Carregar ficheiros",
-        "dndTitle": "Carregar ficheiros",
-        "dndDescription": "Soltar ficheiros ou clicar aqui para carregar"
+        "uploadButton": "Carregar arquivos",
+        "dndTitle": "Carregar arquivos",
+        "dndDescription": "Arraste os arquivos ou clique aqui para carregar",
       },
       "gallery": {
         "uploadButton": "Carregar imagens",
         "dndTitle": "Carregar imagens",
-        "dndDescription": "Soltar imagens ou clicar aqui para carregar"
+        "dndDescription": "Arrastar imagens ou clicar aqui para carregar"
       },
       "phone": {
         "ariaLabel": "Selecione um país"
@@ -56,8 +56,8 @@ export default {
       "previous": "Anterior"
     },
     "editor": {
-      "acceptedMimesError": "Os mímicos aceites são: :mimes",
-      "acceptedExtensionsError": "As extensões aceites são: :extensions"
+      "acceptedMimesError": "Os mimes aceitos são: :mimes",
+      "acceptedExtensionsError": "As extensões aceitas são: :extensions"
     },
     "datepicker": {
       "weekdays": {
@@ -130,16 +130,16 @@ export default {
       },
       "rangeSeparator": " até ",
       "weekAbbreviation": "Wk",
-      "scrollTitle": "Scroll to increment",
-      "toggleTitle": "Click to toggle",
+      "scrollTitle": "Scroll para incrementar",
+      "toggleTitle": "Clique para alternar",
       "amPM": [
         "AM",
         "PM"
       ],
-      "yearAriaLabel": "Year",
-      "monthAriaLabel": "Month",
-      "hourAriaLabel": "Hour",
-      "minuteAriaLabel": "Minute"
+      "yearAriaLabel": "Ano",
+      "monthAriaLabel": "Mês",
+      "hourAriaLabel": "Hora",
+      "minuteAriaLabel": "Minutos"
     },
     "dateFormats": {
       "datetimeSeconds24": "DD/MM/YYYY, HH:mm:ss",
@@ -161,7 +161,7 @@ export default {
     "defaultMessage": "Campo inválido",
     "a11y": {
       "file": {
-        "description": "Press Backspace to remove"
+        "description": "Pressione Backspace para remover"
       },
       "list": {
         "remove": "Remove item button"
